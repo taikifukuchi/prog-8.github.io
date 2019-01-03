@@ -1,0 +1,15 @@
+body{
+  font-family:fantasy;
+}
+
+.main{
+  line-height:50px;
+  font-size:40px;
+  font-weight:normal;
+  color:white;
+  background-color:navy;
+}
+.main span{
+  color:red;
+
+}
